@@ -1,0 +1,3 @@
+C:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
