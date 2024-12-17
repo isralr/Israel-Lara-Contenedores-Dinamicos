@@ -1,7 +1,8 @@
 # ninja log v6
-15	180	7561326230423339	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/main.cpp.obj	bc90710f5ffa8cba
-867	1084	7561326238929353	Israel_Lara_Contenedores_Dinamicos.exe	84acf4f6c4a15817
+12	136	7561335479997588	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/main.cpp.obj	bc90710f5ffa8cba
+1065	1333	7561336681383125	Israel_Lara_Contenedores_Dinamicos.exe	2964e7888586db22
 27	866	7561326230532057	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio1/Vector_e_Iteradores.cpp.obj	a760986dbfb25b32
-10	239	7561327586530791	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/main.cpp.obj	bc90710f5ffa8cba
+20	1115	7561330136451974	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio3/Algoritmos.cpp.obj	1f8f50ee355ba85
 19	1030	7561327586621359	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio2/Contenedores_Estándar_y_Secuencias.cpp.obj	339ca3bc4ae440ce
-1031	1270	7561327596739626	Israel_Lara_Contenedores_Dinamicos.exe	f9f2e70e185e98a1
+20	1016	7561335480052709	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio4/Cálculo_numérico.cpp.obj	bfe34c35b85e7057
+14	1063	7561336670879818	CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio5/Cmasmas_Moderno.cpp.obj	782b779cde3f17ab

@@ -8,4 +8,12 @@ add_executable(Israel_Lara_Contenedores_Dinamicos
         ejercicio1/Vector_e_Iteradores.cpp
         ejercicio1/Vector_e_Iteradores.h
         ejercicio2/Contenedores_Estándar_y_Secuencias.h
-        ejercicio2/Contenedores_Estándar_y_Secuencias.cpp)
+        ejercicio2/Contenedores_Estándar_y_Secuencias.cpp
+        ejercicio3/Algoritmos.h
+        ejercicio3/Algoritmos.cpp
+        ejercicio4/Cálculo_numérico.h
+        ejercicio4/Cálculo_numérico.cpp
+        ejercicio5/Cmasmas_Moderno.h
+        ejercicio5/Cmasmas_Moderno.cpp
+        ejercicio6/Introducción_a_Boost.h
+        ejercicio6/Introducción_a_Boost.cpp)
