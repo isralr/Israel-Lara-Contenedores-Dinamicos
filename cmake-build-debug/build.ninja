@@ -61,6 +61,12 @@ build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio1/Vector_e_Iter
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio1
 
+build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio2/Contenedores_Estándar_y_Secuencias.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio2/Contenedores_Estándar_y_Secuencias.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
+  DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio2\Contenedores_Estándar_y_Secuencias.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Israel_Lara_Contenedores_Dinamicos
@@ -69,7 +75,7 @@ build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio1/Vector_e_Iter
 #############################################
 # Link the executable Israel_Lara_Contenedores_Dinamicos.exe
 
-build Israel_Lara_Contenedores_Dinamicos.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_Contenedores_Dinamicos_Debug CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/main.cpp.obj CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio1/Vector_e_Iteradores.cpp.obj
+build Israel_Lara_Contenedores_Dinamicos.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_Contenedores_Dinamicos_Debug CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/main.cpp.obj CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio1/Vector_e_Iteradores.cpp.obj CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio2/Contenedores_Estándar_y_Secuencias.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
