@@ -51,43 +51,43 @@ build cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos: phon
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/main.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/main.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio1/Vector_e_Iteradores.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio1/Vector_e_Iteradores.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio1\Vector_e_Iteradores.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio1
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio2/Contenedores_Estándar_y_Secuencias.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio2/Contenedores_Estándar_y_Secuencias.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio2\Contenedores_Estándar_y_Secuencias.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio2
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio3/Algoritmos.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio3/Algoritmos.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio3\Algoritmos.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio3
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio4/Cálculo_numérico.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio4/Cálculo_numérico.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio4\Cálculo_numérico.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio4
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio5/Cmasmas_Moderno.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio5/Cmasmas_Moderno.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio5\Cmasmas_Moderno.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio5
 
 build CMakeFiles/Israel_Lara_Contenedores_Dinamicos.dir/ejercicio6/Introducción_a_Boost.cpp.obj: CXX_COMPILER__Israel_Lara_Contenedores_Dinamicos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Contenedores-Dinamicos/ejercicio6/Introducción_a_Boost.cpp || cmake_object_order_depends_target_Israel_Lara_Contenedores_Dinamicos
   DEP_FILE = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio6\Introducción_a_Boost.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=c++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Contenedores_Dinamicos.dir\ejercicio6
 
